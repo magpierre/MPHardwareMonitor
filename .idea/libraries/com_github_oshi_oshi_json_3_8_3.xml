@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.github.oshi:oshi-json:3.8.3" type="repository">
+    <properties maven-id="com.github.oshi:oshi-json:3.8.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/oshi/oshi-json/3.8.3/oshi-json-3.8.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/oshi/oshi-core/3.8.3/oshi-core-3.8.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/4.5.2/jna-platform-4.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.5.2/jna-4.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
